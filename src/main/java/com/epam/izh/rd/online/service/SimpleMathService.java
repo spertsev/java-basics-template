@@ -2,8 +2,6 @@ package com.epam.izh.rd.online.service;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.stream.*;
 
 public class SimpleMathService implements MathService {
 
